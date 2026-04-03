@@ -2,9 +2,9 @@
 
 **Accelerating High-Impact Leadership in Distributed & Matrixed Systems**
 
-[![Version](https://img.shields.io/badge/Version-2026.1-blue)](https://yourcompany.com)
-[![Duration](https://img.shields.io/badge/Duration-12%20Weeks-success)](https://yourcompany.com)
-[![Format](https://img.shields.io/badge/Format-Blended%20%7C%20Cohort-based-orange)](https://yourcompany.com)
+[![Version](https://img.shields.io/badge/Version-2026.1-blue)](https://reyrey.com)
+[![Duration](https://img.shields.io/badge/Duration-12%20Weeks-success)](https://reyrey.com)
+[![Format](https://img.shields.io/badge/Format-Blended%20%7C%20Cohort-based-orange)](https://reyrey.com)
 
 ## Overview
 
